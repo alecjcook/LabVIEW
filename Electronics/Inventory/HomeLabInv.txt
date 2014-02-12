@@ -1,0 +1,17 @@
+,102,Capacitor,Ceramic,10
+,103,Capacitor,Ceramic,12
+,104,Capacitor,Ceramic,8
+,2k,Resistor,Ceramic,8
+,199,Capacitor,Ceramic,8
+,3k7,Resistor,Ceramic,8
+,111,Capacitor,Electrolitic,8
+,113,Capacitor,Electrolitic,8
+,977,Capacitor,Electrolitic,8
+,333,Capacitor,Electrolitic,8
+,77k,Resistor,N/A,8
+,77R,Resistor,N/A,8
+,5V,Diode,Zenner,8
+,1,Capacitor,Electrolitic,8
+,1,Capacitor,Ceramic,8
+,880,Capacitor,Electrolitic,200
+,901,Capacitor,Ceramic,200
