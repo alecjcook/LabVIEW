@@ -26,18 +26,21 @@
 			<Item Name="Globals" Type="Folder">
 				<Item Name="Inventory Path Global.vi" Type="VI" URL="../Globals/Inventory Path Global.vi"/>
 			</Item>
+			<Item Name="Combine Arrays.vi" Type="VI" URL="../Sub VIs/Combine Arrays.vi"/>
+			<Item Name="Convert Farrads to Num.vi" Type="VI" URL="../Sub VIs/Convert Farrads to Num.vi"/>
+			<Item Name="Convert Num to Farrads.vi" Type="VI" URL="../Sub VIs/Convert Num to Farrads.vi"/>
 			<Item Name="Convert Num to Ohms.vi" Type="VI" URL="../Sub VIs/Convert Num to Ohms.vi"/>
 			<Item Name="Convert Ohms to Num.vi" Type="VI" URL="../Sub VIs/Convert Ohms to Num.vi"/>
+			<Item Name="Inventory Cluster to String Array.vi" Type="VI" URL="../Sub VIs/Inventory Cluster to String Array.vi"/>
 			<Item Name="Read and Sort Inventory.vi" Type="VI" URL="../Sub VIs/Read and Sort Inventory.vi"/>
+			<Item Name="Remove Trailing Zeros.vi" Type="VI" URL="../Sub VIs/Remove Trailing Zeros.vi"/>
+			<Item Name="Search for existing item.vi" Type="VI" URL="../Sub VIs/Search for existing item.vi"/>
 			<Item Name="Sort Component Subtype.vi" Type="VI" URL="../Sub VIs/Sort Component Subtype.vi"/>
 			<Item Name="Sort Items.vi" Type="VI" URL="../Sub VIs/Sort Items.vi"/>
 			<Item Name="Update Quantity in Inventory.vi" Type="VI" URL="../Sub VIs/Update Quantity in Inventory.vi"/>
 		</Item>
-		<Item Name="Combine Arrays.vi" Type="VI" URL="../Sub VIs/Combine Arrays.vi"/>
-		<Item Name="Convert Farrads to Num.vi" Type="VI" URL="../Sub VIs/Convert Farrads to Num.vi"/>
-		<Item Name="Convert Num to Farrads.vi" Type="VI" URL="../Sub VIs/Convert Num to Farrads.vi"/>
-		<Item Name="Inventory Cluster to String Array.vi" Type="VI" URL="../Sub VIs/Inventory Cluster to String Array.vi"/>
-		<Item Name="Remove Trailing Zeros.vi" Type="VI" URL="../Sub VIs/Remove Trailing Zeros.vi"/>
+		<Item Name="Convert Num to Volts.vi" Type="VI" URL="../Sub VIs/Convert Num to Volts.vi"/>
+		<Item Name="Convert Volts to Num.vi" Type="VI" URL="../Sub VIs/Convert Volts to Num.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>

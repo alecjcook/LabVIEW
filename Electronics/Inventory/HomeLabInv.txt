@@ -1,7 +1,27 @@
+,10R,Resistor,Carbon,30
+,22R,Resistor,Carbon,30
+,47R,Resistor,Carbon,30
+,100R,Resistor,Carbon,30
+,220R,Resistor,Carbon,30
+,470R,Resistor,Carbon,30
+,1k,Resistor,Carbon,80
+,2k2,Resistor,Carbon,30
+,2k4,Resistor,Carbon,30
+,4k7,Resistor,Carbon,30
+,10k,Resistor,Carbon,30
+,22k,Resistor,Carbon,30
+,47k,Resistor,Carbon,30
+,100k,Resistor,Carbon,30
+,200k,Resistor,Carbon,30
+,220k,Resistor,Carbon,30
+,470k,Resistor,Carbon,30
+,1M,Resistor,Carbon,30
+,10M,Resistor,Carbon,50
 1,1pF,Capacitor,Ceramic,20
 2,2pF,Capacitor,Ceramic,20
 3,3pF,Capacitor,Ceramic,20
 3.9,3.9pF,Capacitor,Ceramic,20
+5,5pF,Capacitor,Ceramic,20
 6,6pF,Capacitor,Ceramic,20
 8,8pF,Capacitor,Ceramic,20
 10,10pF,Capacitor,Ceramic,20
@@ -19,7 +39,6 @@
 39,39pF,Capacitor,Ceramic,20
 47,47pF,Capacitor,Ceramic,20
 50,50pF,Capacitor,Ceramic,20
-5,5pF,Capacitor,Ceramic,20
 68,68pF,Capacitor,Ceramic,20
 82,82pF,Capacitor,Ceramic,20
 100,100pF,Capacitor,Ceramic,20
@@ -47,4 +66,18 @@
 333,33nF,Capacitor,Ceramic,20
 473,47nF,Capacitor,Ceramic,20
 683,68nF,Capacitor,Ceramic,20
-104,0.1uF,Capacitor,Ceramic,20
+104,0.1µF,Capacitor,Ceramic,66
+1N4181,,Diode,N/A,85
+1N914,,Diode,N/A,25
+BZX85C10,10V,Diode,Zenner,25
+BZX85C24,24V,Diode,Zenner,25
+BZX85C3V0,3V,Diode,Zenner,3
+XTAL,4MHz,Misc,N/A,6
+XTAL,16MHz,Misc,N/A,18
+LM7912CT,-12v,Voltage Regulator,TO-220,1
+LM7812ABV,+12v,Voltage Regulator,TO-220,11
+LM2940T,+5 (1V),Voltage Regulator,TO-220,5
+LM7805CV,+5,Voltage Regulator,TO-220,13
+LM386,,ICs,N/A,5
+ICL8038,,ICs,N/A,5
+NE555,,ICs,N/A,5
