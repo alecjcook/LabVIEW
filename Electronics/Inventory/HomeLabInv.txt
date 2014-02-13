@@ -82,3 +82,14 @@ LM7805CV,+5,Voltage Regulator,TO-220,13
 LM386,,ICs,N/A,5
 ICL8038,,ICs,N/A,5
 NE555,,ICs,N/A,5
+,1.2k,Resistor,Carbon,100
+302,3nF,Capacitor,Ceramic,5
+105,1uF,Capacitor,Ceramic,30
+,1k,Resistor,Variable - Trimmer,20
+,2k,Resistor,Variable - Trimmer,7
+,10k,Resistor,Variable - Trimmer,25
+,100k,Resistor,Variable - Trimmer,15
+,220k,Resistor,Variable - Trimmer,5
+L79L12,-12V,Voltage Regulator,TO-92,9
+L78L12,12V,Voltage Regulator,TO-92,9
+2N3904,12V,Transistors,NPN,100
