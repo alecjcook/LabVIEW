@@ -41,6 +41,7 @@
 50,50pF,Capacitor,Ceramic,20
 68,68pF,Capacitor,Ceramic,20
 82,82pF,Capacitor,Ceramic,20
+475,437uF,Capacitor,Ceramic,25
 100,100pF,Capacitor,Ceramic,20
 120,120pF,Capacitor,Ceramic,20
 150,150pF,Capacitor,Ceramic,20
