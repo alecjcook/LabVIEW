@@ -96,6 +96,83 @@
 				<Item Name="Write To Spreadsheet File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File.vi"/>
 			</Item>
 		</Item>
-		<Item Name="Build Specifications" Type="Build"/>
+		<Item Name="Build Specifications" Type="Build">
+			<Item Name="Add To Inventory" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{CFC9303C-996A-42CF-BC59-E6A8CDB4FF51}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{63FC8D17-46B7-4D1E-BEAE-0B21B07AA927}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{215E4953-330A-494C-B76B-DD0DB4BFA521}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Add To Inventory</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/Add To Inventory</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{55FDCDB1-A511-45BC-8F1C-4EEB256F4E1F}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">InventoryAdd.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Add To Inventory/InventoryAdd.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Add To Inventory/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{08017C27-A347-4242-A566-A39F173C2350}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Main VIs/Add to Inventory.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Add To Inventory</Property>
+				<Property Name="TgtF_internalName" Type="Str">Add To Inventory</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2014 </Property>
+				<Property Name="TgtF_productName" Type="Str">Add To Inventory</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{0C609CAC-8862-446C-B20B-54C703A6FE93}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">InventoryAdd.exe</Property>
+			</Item>
+			<Item Name="Inventory Maintainance" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{2112FF7B-441E-4332-9A7F-C3B473BA75DB}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{697A7EB5-33C2-414E-B8F1-A0C2CA59A4F4}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{7B6ADCE5-CBD9-40AC-A625-561132E502A1}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Inventory Maintainance</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/Inventory Maintainance</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{D0BCC086-FB11-4439-BB46-310F0847FB14}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">InventoryMaint.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Inventory Maintainance/InventoryMaint.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Inventory Maintainance/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{08017C27-A347-4242-A566-A39F173C2350}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Main VIs/Maintain Inventory.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Inventory Maintainance</Property>
+				<Property Name="TgtF_internalName" Type="Str">Inventory Maintainance</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2014 </Property>
+				<Property Name="TgtF_productName" Type="Str">Inventory Maintainance</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{83FD6B20-FED0-4DCD-8D96-ABD7F831B003}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">InventoryMaint.exe</Property>
+			</Item>
+		</Item>
 	</Item>
 </Project>
