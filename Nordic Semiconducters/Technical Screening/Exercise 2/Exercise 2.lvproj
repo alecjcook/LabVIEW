@@ -22,6 +22,8 @@
 				<Item Name="Pass Weighting.ctl" Type="VI" URL="../Sub VIs/Pass Weighting.ctl"/>
 				<Item Name="Results FGV Command.ctl" Type="VI" URL="../Sub VIs/Results FGV Command.ctl"/>
 				<Item Name="Sig Gen Control Command.ctl" Type="VI" URL="../Sub VIs/Sig Gen Control Command.ctl"/>
+				<Item Name="Test Managment Application Queue Control Cluster.ctl" Type="VI" URL="../Sub VIs/Test Managment Application Queue Control Cluster.ctl"/>
+				<Item Name="Test Managment Application Queue Control.ctl" Type="VI" URL="../Sub VIs/Test Managment Application Queue Control.ctl"/>
 				<Item Name="Test Parameters.ctl" Type="VI" URL="../Sub VIs/Test Parameters.ctl"/>
 				<Item Name="Test Results Cluster.ctl" Type="VI" URL="../Sub VIs/Test Results Cluster.ctl"/>
 				<Item Name="Test Results Display Cluster.ctl" Type="VI" URL="../Sub VIs/Test Results Display Cluster.ctl"/>
@@ -36,6 +38,7 @@
 			<Item Name="Read Test Data.vi" Type="VI" URL="../Sub VIs/Read Test Data.vi"/>
 			<Item Name="Read Test Parameters.vi" Type="VI" URL="../Sub VIs/Read Test Parameters.vi"/>
 			<Item Name="Result Handling FGV.vi" Type="VI" URL="../Sub VIs/Result Handling FGV.vi"/>
+			<Item Name="Results Display Updater.vi" Type="VI" URL="../Sub VIs/Results Display Updater.vi"/>
 			<Item Name="Results Packer.vi" Type="VI" URL="../Sub VIs/Results Packer.vi"/>
 			<Item Name="Results to Text.vi" Type="VI" URL="../Sub VIs/Results to Text.vi"/>
 			<Item Name="Signal Generator Control.vi" Type="VI" URL="../Sub VIs/Signal Generator Control.vi"/>
@@ -43,24 +46,14 @@
 			<Item Name="UUT Comms.vi" Type="VI" URL="../Sub VIs/UUT Comms.vi"/>
 		</Item>
 		<Item Name="Blocking Performance Test Managment.vi" Type="VI" URL="../Blocking Performance Test Managment.vi"/>
-		<Item Name="Results Display Updater.vi" Type="VI" URL="../Sub VIs/Results Display Updater.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="niRFSG Abort.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSG/niRFSG.llb/niRFSG Abort.vi"/>
 				<Item Name="niRFSG Configure Power Level Type.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSG/niRFSG.llb/niRFSG Configure Power Level Type.vi"/>
-				<Item Name="niRFSG Error Message.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSG/niRFSG.llb/niRFSG Error Message.vi"/>
 				<Item Name="niRFSG Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSG/niRFSG.llb/niRFSG Initialize.vi"/>
 				<Item Name="niRFSG Initiate.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSG/niRFSG.llb/niRFSG Initiate.vi"/>
-				<Item Name="niRFSG IVI Error Converter.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSG/niRFSG.llb/niRFSG IVI Error Converter.vi"/>
-				<Item Name="niRFSG Write Arb Waveform (Complex DBL).vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSG/niRFSG.llb/niRFSG Write Arb Waveform (Complex DBL).vi"/>
-				<Item Name="niRFSG Write Arb Waveform (Complex Input).vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSG/niRFSG.llb/niRFSG Write Arb Waveform (Complex Input).vi"/>
-				<Item Name="niRFSG Write Arb Waveform (CWDT).vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSG/niRFSG.llb/niRFSG Write Arb Waveform (CWDT).vi"/>
-				<Item Name="niRFSG Write Arb Waveform (Direct DMA).vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSG/niRFSG.llb/niRFSG Write Arb Waveform (Direct DMA).vi"/>
 				<Item Name="niRFSG Write Arb Waveform (I-Q).vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSG/niRFSG.llb/niRFSG Write Arb Waveform (I-Q).vi"/>
-				<Item Name="niRFSG Write Arb Waveform (I16).vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSG/niRFSG.llb/niRFSG Write Arb Waveform (I16).vi"/>
 				<Item Name="niRFSG Write Arb Waveform.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSG/niRFSG.llb/niRFSG Write Arb Waveform.vi"/>
-				<Item Name="rfsg_Validate I-Q Arrays.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSG/niRFSG.llb/rfsg_Validate I-Q Arrays.vi"/>
-				<Item Name="rfsg_Validate I16 Array.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSG/niRFSG.llb/rfsg_Validate I16 Array.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -99,9 +92,6 @@
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
-			</Item>
-			<Item Name="niRFSG.dll" Type="Document" URL="niRFSG.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>

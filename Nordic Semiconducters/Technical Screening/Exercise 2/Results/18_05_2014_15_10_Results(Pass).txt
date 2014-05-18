@@ -1,0 +1,904 @@
+*** Failures ***
+Frequency | Received Packets |Wanted Signal Level | Blocking Signal Level | Results
+
+
+*** Warnings ***
+Frequency | Received Packets |Wanted Signal Level | Blocking Signal Level | Results
+
+
+*** All Results ***
+Frequency | Received Packets |Wanted Signal Level | Blocking Signal Level | Results
+   30 MHz | 1500 | -67 dBm | -30 dBm | Pass
+   40 MHz | 1500 | -67 dBm | -30 dBm | Pass
+   50 MHz | 1500 | -67 dBm | -30 dBm | Pass
+   60 MHz | 1500 | -67 dBm | -30 dBm | Pass
+   70 MHz | 1500 | -67 dBm | -30 dBm | Pass
+   80 MHz | 1500 | -67 dBm | -30 dBm | Pass
+   90 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  100 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  110 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  120 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  130 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  140 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  150 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  160 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  170 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  180 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  190 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  200 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  210 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  220 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  230 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  240 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  250 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  260 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  270 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  280 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  290 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  300 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  310 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  320 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  330 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  340 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  350 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  360 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  370 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  380 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  390 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  400 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  410 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  420 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  430 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  440 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  450 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  460 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  470 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  480 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  490 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  500 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  510 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  520 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  530 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  540 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  550 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  560 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  570 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  580 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  590 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  600 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  610 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  620 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  630 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  640 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  650 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  660 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  670 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  680 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  690 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  700 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  710 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  720 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  730 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  740 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  750 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  760 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  770 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  780 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  790 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  800 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  810 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  820 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  830 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  840 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  850 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  860 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  870 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  880 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  890 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  900 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  910 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  920 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  930 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  940 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  950 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  960 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  970 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  980 MHz | 1500 | -67 dBm | -30 dBm | Pass
+  990 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1000 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1010 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1020 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1030 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1040 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1050 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1060 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1070 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1080 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1090 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1100 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1110 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1120 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1130 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1140 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1150 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1160 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1170 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1180 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1190 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1200 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1210 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1220 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1230 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1240 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1250 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1260 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1270 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1280 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1290 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1300 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1310 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1320 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1330 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1340 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1350 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1360 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1370 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1380 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1390 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1400 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1410 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1420 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1430 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1440 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1450 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1460 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1470 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1480 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1490 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1500 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1510 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1520 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1530 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1540 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1550 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1560 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1570 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1580 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1590 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1600 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1610 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1620 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1630 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1640 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1650 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1660 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1670 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1680 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1690 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1700 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1710 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1720 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1730 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1740 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1750 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1760 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1770 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1780 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1790 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1800 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1810 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1820 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1830 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1840 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1850 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1860 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1870 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1880 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1890 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1900 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1910 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1920 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1930 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1940 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1950 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1960 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1970 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1980 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 1990 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 2000 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 2003 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2006 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2009 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2012 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2015 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2018 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2021 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2024 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2027 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2030 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2033 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2036 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2039 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2042 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2045 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2048 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2051 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2054 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2057 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2060 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2063 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2066 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2069 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2072 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2075 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2078 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2081 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2084 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2087 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2090 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2093 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2096 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2099 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2102 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2105 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2108 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2111 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2114 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2117 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2120 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2123 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2126 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2129 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2132 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2135 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2138 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2141 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2144 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2147 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2150 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2153 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2156 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2159 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2162 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2165 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2168 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2171 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2174 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2177 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2180 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2183 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2186 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2189 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2192 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2195 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2198 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2201 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2204 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2207 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2210 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2213 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2216 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2219 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2222 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2225 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2228 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2231 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2234 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2237 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2240 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2243 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2246 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2249 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2252 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2255 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2258 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2261 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2264 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2267 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2270 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2273 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2276 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2279 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2282 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2285 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2288 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2291 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2294 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2297 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2300 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2303 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2306 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2309 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2312 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2315 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2318 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2321 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2324 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2327 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2330 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2333 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2336 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2339 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2342 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2345 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2348 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2351 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2354 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2357 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2360 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2363 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2366 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2369 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2372 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2375 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2378 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2381 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2384 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2387 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2390 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2393 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2396 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2399 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2484 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2487 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2490 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2493 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2496 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2499 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2502 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2505 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2508 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2511 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2514 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2517 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2520 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2523 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2526 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2529 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2532 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2535 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2538 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2541 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2544 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2547 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2550 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2553 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2556 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2559 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2562 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2565 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2568 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2571 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2574 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2577 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2580 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2583 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2586 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2589 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2592 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2595 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2598 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2601 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2604 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2607 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2610 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2613 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2616 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2619 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2622 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2625 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2628 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2631 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2634 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2637 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2640 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2643 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2646 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2649 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2652 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2655 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2658 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2661 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2664 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2667 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2670 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2673 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2676 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2679 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2682 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2685 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2688 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2691 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2694 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2697 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2700 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2703 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2706 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2709 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2712 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2715 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2718 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2721 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2724 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2727 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2730 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2733 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2736 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2739 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2742 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2745 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2748 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2751 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2754 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2757 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2760 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2763 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2766 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2769 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2772 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2775 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2778 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2781 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2784 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2787 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2790 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2793 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2796 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2799 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2802 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2805 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2808 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2811 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2814 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2817 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2820 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2823 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2826 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2829 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2832 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2835 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2838 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2841 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2844 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2847 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2850 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2853 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2856 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2859 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2862 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2865 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2868 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2871 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2874 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2877 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2880 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2883 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2886 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2889 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2892 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2895 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2898 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2901 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2904 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2907 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2910 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2913 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2916 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2919 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2922 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2925 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2928 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2931 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2934 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2937 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2940 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2943 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2946 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2949 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2952 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2955 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2958 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2961 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2964 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2967 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2970 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2973 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2976 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2979 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2982 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2985 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2988 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2991 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2994 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 2997 MHz | 1500 | -67 dBm | -35 dBm | Pass
+ 3000 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3025 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3050 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3075 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3100 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3125 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3150 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3175 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3200 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3225 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3250 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3275 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3300 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3325 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3350 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3375 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3400 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3425 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3450 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3475 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3500 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3525 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3550 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3575 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3600 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3625 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3650 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3675 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3700 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3725 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3750 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3775 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3800 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3825 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3850 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3875 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3900 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3925 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3950 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 3975 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4000 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4025 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4050 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4075 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4100 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4125 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4150 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4175 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4200 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4225 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4250 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4275 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4300 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4325 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4350 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4375 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4400 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4425 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4450 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4475 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4500 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4525 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4550 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4575 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4600 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4625 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4650 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4675 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4700 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4725 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4750 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4775 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4800 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4825 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4850 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4875 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4900 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4925 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4950 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 4975 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5000 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5025 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5050 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5075 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5100 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5125 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5150 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5175 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5200 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5225 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5250 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5275 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5300 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5325 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5350 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5375 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5400 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5425 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5450 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5475 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5500 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5525 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5550 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5575 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5600 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5625 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5650 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5675 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5700 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5725 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5750 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5775 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5800 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5825 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5850 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5875 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5900 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5925 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5950 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 5975 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6000 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6025 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6050 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6075 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6100 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6125 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6150 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6175 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6200 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6225 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6250 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6275 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6300 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6325 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6350 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6375 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6400 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6425 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6450 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6475 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6500 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6525 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6550 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6575 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6600 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6625 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6650 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6675 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6700 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6725 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6750 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6775 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6800 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6825 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6850 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6875 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6900 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6925 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6950 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 6975 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7000 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7025 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7050 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7075 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7100 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7125 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7150 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7175 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7200 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7225 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7250 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7275 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7300 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7325 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7350 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7375 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7400 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7425 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7450 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7475 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7500 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7525 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7550 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7575 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7600 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7625 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7650 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7675 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7700 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7725 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7750 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7775 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7800 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7825 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7850 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7875 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7900 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7925 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7950 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 7975 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8000 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8025 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8050 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8075 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8100 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8125 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8150 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8175 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8200 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8225 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8250 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8275 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8300 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8325 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8350 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8375 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8400 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8425 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8450 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8475 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8500 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8525 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8550 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8575 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8600 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8625 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8650 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8675 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8700 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8725 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8750 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8775 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8800 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8825 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8850 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8875 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8900 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8925 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8950 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 8975 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9000 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9025 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9050 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9075 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9100 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9125 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9150 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9175 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9200 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9225 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9250 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9275 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9300 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9325 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9350 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9375 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9400 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9425 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9450 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9475 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9500 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9525 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9550 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9575 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9600 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9625 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9650 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9675 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9700 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9725 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9750 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9775 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9800 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9825 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9850 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9875 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9900 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9925 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9950 MHz | 1500 | -67 dBm | -30 dBm | Pass
+ 9975 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10000 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10025 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10050 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10075 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10100 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10125 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10150 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10175 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10200 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10225 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10250 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10275 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10300 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10325 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10350 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10375 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10400 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10425 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10450 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10475 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10500 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10525 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10550 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10575 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10600 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10625 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10650 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10675 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10700 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10725 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10750 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10775 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10800 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10825 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10850 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10875 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10900 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10925 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10950 MHz | 1500 | -67 dBm | -30 dBm | Pass
+10975 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11000 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11025 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11050 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11075 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11100 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11125 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11150 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11175 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11200 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11225 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11250 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11275 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11300 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11325 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11350 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11375 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11400 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11425 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11450 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11475 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11500 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11525 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11550 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11575 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11600 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11625 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11650 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11675 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11700 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11725 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11750 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11775 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11800 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11825 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11850 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11875 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11900 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11925 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11950 MHz | 1500 | -67 dBm | -30 dBm | Pass
+11975 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12000 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12025 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12050 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12075 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12100 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12125 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12150 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12175 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12200 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12225 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12250 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12275 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12300 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12325 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12350 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12375 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12400 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12425 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12450 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12475 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12500 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12525 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12550 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12575 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12600 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12625 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12650 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12675 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12700 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12725 MHz | 1500 | -67 dBm | -30 dBm | Pass
+12750 MHz | 1500 | -67 dBm | -30 dBm | Pass
